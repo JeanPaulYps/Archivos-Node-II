@@ -1,0 +1,16 @@
+{
+  "name": "TrabajoOpcionalII",
+  "version": "1.0.1",
+  "description": "Solucion del trabajo opcional 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jean Paul",
+  "license": "ISC",
+  "dependencies": {
+    "argv": "0.0.2",
+    "express": "^4.16.4",
+    "yargs": "^13.2.2"
+  }
+}
